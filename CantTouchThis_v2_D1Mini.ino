@@ -12,6 +12,9 @@
                 - Breadboard
                 - Some jumper wires
 
+   Libraries:
+                - https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
    Created on 23 August 2022 by c010blind3ngineer
 */
 #include <ESP8266WiFi.h>
